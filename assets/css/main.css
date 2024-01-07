@@ -3798,10 +3798,10 @@ input, select, textarea {
 		width: 25px;
 		height: 25px;
 		right: -17px;
-		background-color: #fff; /* Set your dot color */
-		border: 4px solid #3498db; /* Set your dot border color */
+		background-color: #fff; 
+		border: 4px solid #3498db; 
 		top: 50%;
-		transform: translateY(-50%); /* Center the dot vertically */
+		transform: translateY(-50%); 
 		border-radius: 50%;
 		z-index: 1;
 	  }
@@ -3828,6 +3828,4 @@ input, select, textarea {
 	  
 	  /* Adjust other styles as needed */
 	  
-	#four p{
-		text-align: justify;
-	}
+	
